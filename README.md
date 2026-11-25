@@ -88,4 +88,4 @@ bluereacher status sim_abc123 --json
 
 ## License
 
-MIT. Copyright 2026 Sagency International LLC (Blue Reacher).
+MIT. Copyright 2026 Blue Reacher.
